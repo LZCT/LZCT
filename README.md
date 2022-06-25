@@ -13,13 +13,15 @@ These are the technologies that I usually study and work with:
   <img height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-          
+   <img align="right" width="200" height="200" src="https://i.imgur.com/PveRd8u.png">       
 </div>
           
 
 ## Overview
 
 [![LZCT's GitHub stats](https://github-readme-stats.vercel.app/api?username=LZCT&count_private=true&show_icons=true&theme=chartreuse-dark&border_radius=25)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--![Snake animation](https://github.com/LZCT/LZCT/blob/output/github-contribution-grid-snake.svg)-->
 
