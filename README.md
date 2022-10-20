@@ -1,6 +1,6 @@
 ### Hello World! 🌎
 My name is Leonardo, also know as LZCT. <br>
-I'm 23 years old and I graduated from <a href="https://portal.fei.edu.br/">FEI</a> in 2019 with a bachelor's degree in computer science. 
+I'm 24 years old and I graduated from <a href="https://portal.fei.edu.br/">FEI</a> in 2019 with a bachelor's degree in computer science. 
 
 ## Technologies
 
