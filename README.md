@@ -1,6 +1,14 @@
 ### Hello World! 🌎
 My name is Leonardo, also know as LZCT. <br>
-I'm 24 years old and I graduated from <a href="https://portal.fei.edu.br/">FEI</a> in 2019 with a bachelor's degree in computer science. 
+I'm 24 years old and I graduated from <a href="https://portal.fei.edu.br/">FEI</a> in 2019 with a bachelor's degree in computer science.
+<div style="display> inline_block">
+  <a href="https://www.linkedin.com/in/leocastabelli/">
+    <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  </a>
+  <a href="https://leocastabelli.vercel.app/">
+    <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Globe_icon.svg/420px-Globe_icon.svg.png?20180308223847" />
+  </a>
+</div>        
 
 ## Technologies
 
@@ -11,10 +19,14 @@ These are the technologies that I usually study and work with:
   <img height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img height="40" width="40" align="center" src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" />
   <img height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  
   <img align="right" width="200" height="200" src="https://i.imgur.com/cgtEoV7.png">       
 </div>
           
