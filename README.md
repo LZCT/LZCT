@@ -33,7 +33,7 @@ These are the technologies that I usually study and work with:
 
 ## Overview
 
-[![LZCT's GitHub stats](https://github-readme-stats.vercel.app/api?username=LZCT&count_private=true&include_all_commits=true&show_icons=true&theme=chartreuse-dark&border_radius=25&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![LZCT's GitHub stats](https://github-readme-stats-587kq7mmd-lzct.vercel.app/api?username=LZCT&count_private=true&include_all_commits=true&show_icons=true&theme=chartreuse-dark&border_radius=25&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 <div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LZCT&theme=chartreuse-dark&langs_count=8&layout=compact&hide_border=true&border_radius=25" /></div>
 </div>
